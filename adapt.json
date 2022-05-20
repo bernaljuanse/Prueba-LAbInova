@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "adapt-contrib-vanilla": "https://github.com/adaptlearning/adapt-contrib-vanilla.git",
+        "adapt-contrib-vanilla": "https://github.com/bernaljuanse/adapt-contrib-vanilla.git",
         "adapt-contrib-text": "*",
         "adapt-contrib-narrative": "*",
         "adapt-contrib-media": "*",
