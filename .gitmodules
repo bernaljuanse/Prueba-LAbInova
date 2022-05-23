@@ -6,3 +6,6 @@
 [submodule "src/core/adapt-contrib-core"]
 	path = src/core/adapt-contrib-core
 	url = https://github.com/bernaljuanse/adapt-contrib-core.git
+[submodule "src/adapt-contrib-core"]
+	path = src/adapt-contrib-core
+	url = https://github.com/bernaljuanse/adapt-contrib-core.git
