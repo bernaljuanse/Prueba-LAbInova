@@ -3,3 +3,6 @@
 	branch = master
 	url = https://github.com/bernaljuanse/adapt-contrib-core.git
  	installBranch = v6.6.2
+[submodule "src/core/adapt-contrib-core"]
+	path = src/core/adapt-contrib-core
+	url = https://github.com/bernaljuanse/adapt-contrib-core.git
